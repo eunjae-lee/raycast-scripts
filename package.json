@@ -1,0 +1,18 @@
+{
+  "name": "raycast-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eunjae-lee/raycast-scripts.git"
+  },
+  "author": "Eunjae Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eunjae-lee/raycast-scripts/issues"
+  },
+  "homepage": "https://github.com/eunjae-lee/raycast-scripts#readme"
+}
