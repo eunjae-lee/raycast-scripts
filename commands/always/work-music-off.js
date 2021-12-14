@@ -16,9 +16,7 @@ runAppleScript(`
 `);
 
 runAppleScript(`
-  tell application "System Events"
-    tell process "Spotify"
-      click menu item "Pause" of menu "Playback" of menu bar 1
-    end tell
+  tell application "Music"
+    pause
   end tell
 `);

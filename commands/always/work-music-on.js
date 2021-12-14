@@ -25,20 +25,11 @@ runAppleScript(`
     end tell
   end tell
 
-
-
-  if not is_running("Spotify") then
-    tell application "Spotify"
-      launch
-      delay 3
-    end tell
-  end if
+  tell application "Music"
+    set song repeat to all
+    set shuffle enabled to true
+    play the playlist named "Yun Seok Cheol (For Work)"
+  end tell
 
   set volume output volume 30 --100%
-
-  tell application "Spotify"
-    set sound volume to (100)
-    set shuffling to true
-    play track "spotify:playlist:50HUmMfMXnkCViHejiISdJ"
-  end tell
 `);
