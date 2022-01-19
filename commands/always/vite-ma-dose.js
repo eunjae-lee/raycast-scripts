@@ -2,7 +2,7 @@
 
 // @raycast.title Check Vaccination Slot
 //
-// @raycast.mode fullOutput
+// @raycast.mode compact
 // @raycast.icon 🗓
 // @raycast.schemaVersion 1
 
@@ -119,6 +119,7 @@ function chunk(arr, limit = 10) {
     }))
     .sort((a, b) => a.distance - b.distance);
 
+  console.log(`# got ${results.length} result(s)`);
   const chunkedResults = chunk(results);
 
   for (let batch of chunkedResults) {

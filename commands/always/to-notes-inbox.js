@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-// @raycast.title Quick Draft
+// @raycast.title Clipboard → Notes Inbox
 //
 // @raycast.mode compact
 // @raycast.icon 🗓

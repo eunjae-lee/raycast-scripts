@@ -2,10 +2,10 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title Edit Espanso Snippets
+# @raycast.title Open Raycast Scripts
 # @raycast.mode compact
 
 # Optional parameters:
 # @raycast.icon 🤖
 
-code ~/.dotfiles/app-configs/espanso/
+/usr/local/bin/code /Users/eunjae.lee/workspace/raycast-scripts
