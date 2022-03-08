@@ -8,4 +8,4 @@
 # Optional parameters:
 # @raycast.icon 🤖
 
-code ~/.dotfiles/app-configs/espanso/
+code ~/workspace/dotfiles/app-configs/espanso/
