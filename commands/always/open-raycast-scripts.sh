@@ -8,4 +8,4 @@
 # Optional parameters:
 # @raycast.icon 🤖
 
-/usr/local/bin/code /Users/eunjae.lee/workspace/raycast-scripts
+/usr/local/bin/code /Users/eunjae/workspace/raycast-scripts
