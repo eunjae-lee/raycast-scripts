@@ -9,4 +9,4 @@
 # @raycast.icon 📶
 
 source ../../.env
-m wifi connect mingpaul "${WIFI_OFFICE_PASSWORD}"
+m wifi connect mps2 "${WIFI_OFFICE_PASSWORD}"
