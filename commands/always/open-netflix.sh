@@ -11,7 +11,12 @@
 # Documentation:
 # @raycast.author Eunjae Lee
 
-open raycast://extensions/raycast/system/set-volume-to-75
-osascript -e 'tell application "System Events" to set brightness to 1.0'
-open "https://netflix.com"
 open raycast://script-commands/wifi-living-room
+m display up
+m display up
+m display up
+m display up
+m display up
+m display up
+open "https://netflix.com"
+open raycast://extensions/raycast/system/set-volume-to-75
