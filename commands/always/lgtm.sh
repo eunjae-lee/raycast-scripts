@@ -12,4 +12,4 @@
 # @raycast.description Looks good to me
 # @raycast.author Eunjae Lee
 
-lgtm | pbcopy
+~/workspace/dotfiles/lgtm | pbcopy
